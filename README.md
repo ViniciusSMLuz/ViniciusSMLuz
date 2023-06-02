@@ -2,7 +2,7 @@
 Estou atualmente estudando  Sistemas de informação na Escola Superior de Propaganda e Marketing(ESPM), espero a cada dia desenvolver meus conhecimentos sobre a área de programação e tecnologia, aplicando e realizando projetos. 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vinimluz_)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Vincius-Skaf-Machado-Luz/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-skaf-luz/)
 
 ![Vincius GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusSMLuz&show_icons=true&theme=dracula&count_private=true)
 
