@@ -1,4 +1,4 @@
-## Olá! Eu meu nome é Vinicius 🖐️😁
+## Olá! Meu nome é Vinicius 🖐️😁
 Estou atualmente estudando  Sistemas de informação na Escola Superior de Propaganda e Marketing(ESPM), espero a cada dia desenvolver meus conhecimentos sobre a área de programação e tecnologia, aplicando e realizando projetos. 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vinimluz_)
