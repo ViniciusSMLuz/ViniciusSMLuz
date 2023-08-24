@@ -1,6 +1,8 @@
 ## Olá! Meu nome é Vinicius 🖐️😁
 Estou atualmente estudando  Sistemas de informação na Escola Superior de Propaganda e Marketing(ESPM), espero a cada dia desenvolver meus conhecimentos sobre a área de programação e tecnologia, aplicando e realizando projetos. 
 
+I am currently studying Information Systems at Escola Superior de Propaganda e Marketing (ESPM), I hope every day to develop my knowledge about programming and technology, applying and carrying out projects.
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vinimluz_)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-skaf-luz/)
 
